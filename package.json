@@ -1,0 +1,21 @@
+{
+  "name": "batalha-herois",
+  "version": "1.0.0",
+  "description": "Simulação de uma batalha entre heróis usando classes e herança em JavaScript",
+  "main": "arena.js",
+  "scripts": {
+    "start": "node arena.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "herois",
+    "batalha",
+    "orientacao-objetos",
+    "javascript"
+  ],
+  "author": "Seu Nome",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
